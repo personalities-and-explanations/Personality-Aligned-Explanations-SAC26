@@ -1,7 +1,7 @@
 # README: Resource Repository
 This is the online repository for the paper 'Do Users Prefer Personality-Aligned Explanations? A Generative OCEAN Approach to Recommender Systems'.
 
-```
+
 ## Content of the Folders
 
 ### 1. Datasets:
