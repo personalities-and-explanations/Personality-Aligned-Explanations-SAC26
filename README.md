@@ -11,14 +11,10 @@ This is the online repository for the paper 'Do Users Prefer Personality-Aligned
 1. **final_prompts_english.json:** Contains the finalized prompt templates in English used to generate personality-aligned explanations for music recommendations.
 2. **final_prompts_portuguese.json:** Contains the finalized prompt templates in Portuguese used to generate personality-aligned explanations for music recommendations.
 
-### 3. Questions:
-1. **questions_english_rq2.txt:** Contains the set of evaluation questions in English used to assess user perceptions of the explanations for Research Question 2 (RQ2).
-2. **questions_portuguese_rq2.txt:** Contains the set of evaluation questions in Portuguese used to assess user perceptions of the explanations for Research Question 2 (RQ2).
-   
-### 4. Screens:
+### 3. Screens:
 Multiple images showcasing the various interfaces that are part of the study, organized sequentially to match the progression in the experiment.
 
-### 5. Scripts (with tables):
+### 4. Scripts (with tables):
 
 #### RQ1 – Explanation Preference
 
