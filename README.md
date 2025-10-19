@@ -16,8 +16,5 @@ Multiple images showcasing the various interfaces that are part of the study, or
 
 ### 4. Scripts (with tables):
 
-#### RQ1 – Explanation Preference
-
-
-
-#### RQ2 – Explanation Evaluation
+#### RQ1 – Behavior Choice
+#### RQ2 – User Perceptions
