@@ -1,6 +1,27 @@
 # README: Resource Repository
-This is the online repository for the paper 'Do Users Prefer Personality-Aligned Explanations? A Generative OCEAN Approach to Recommender Systems'.
+This repository contains the datasets, prompts, scripts, and interface screenshots used in the paper:
 
+**Do Users Prefer Personality-Aligned Explanations? A Generative OCEAN Approach to Recommender Systems**
+
+**Authors:**  
+Gabrielle P. Alves, Dietmar Jannach, Marcelo G. Manzato, Luan F. Souza  
+
+**Publication Venue:**  
+To appear in *Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (ACM SAC 2026)*.
+
+## Citation
+If you use this dataset, code, or prompts in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{alves2026ocean,
+  author    = {Alves, Gabrielle and Jannach, Dietmar and Manzato, Marcelo G. and Souza, Luan F.},
+  title     = {Do Users Prefer Personality-Aligned Explanations? A Generative OCEAN Approach to Recommender Systems},
+  booktitle = {Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)},
+  year      = {2026},
+  publisher = {Association for Computing Machinery},
+  address   = {Thessaloniki, Greece}
+}
+```
 
 ## Content of the Folders
 
