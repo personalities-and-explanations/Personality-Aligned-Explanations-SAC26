@@ -26,7 +26,9 @@ If you use this dataset, code, or prompts in your research, please cite the foll
 ## Content of the Folders
 
 ### 1. Datasets:
-1. **users_data.csv:** This file contains the primary dataset gathered during our main study. It includes user interactions, responses, and behavioral logs.
+1. **lexical_frequencies_standardized_residuals.csv:** This file contains the original Portuguese tokens and the corresponding standardized residuals derived from the chi-square analysis.
+2. **token_translation_mapping.ipynb:** This file contains the original Portuguese tokens, their English translations, and the matched Big Five trait category after stemming.
+3. **users_data.csv:** This file contains the primary dataset gathered during our main study. It includes user interactions, responses, and behavioral logs.
 
 ### 2. Prompts:
 1. **final_prompts_english.json:** Contains the finalized prompt templates in English used to generate personality-aligned explanations for music recommendations.
